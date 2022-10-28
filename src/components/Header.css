@@ -1,0 +1,13 @@
+.headd{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 2rem;
+    font-weight: bold;
+    margin-right: 2rem;
+}
